@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParameterFile>
+  <Timestamps>
+    <year>2002</year>
+    <month>8</month>
+    <day>1</day>
+    <starttime>0</starttime>
+    <endtime>85820</endtime>
+  </Timestamps>
+  <Inertial>
+    <position_x>1541188.551939999918000</position_x>
+    <position_y>-6669614.089719999582000</position_y>
+    <position_z>76381.467979699998980 </position_z>
+    <velocity_x>112.497894895000002</velocity_x>
+    <velocity_y>113.385146337999998</velocity_y>
+    <velocity_z>7637.828744229999756</velocity_z>
+  </Inertial>
+  <IntegratorSettings>
+    
+  </IntegratorSettings>
+</ParameterFile>
+
+
+
+

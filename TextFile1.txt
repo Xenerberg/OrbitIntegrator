@@ -1,0 +1,15 @@
+Dependency on UI components: These have to be built again (cannot build)
+atmo.cpp
+int_fun.cpp
+tidefun.h
+atmofun.cpp
+
+Main form:
+bahnint.cpp
+
+Thread implementation
+int_thread.cpp
+
+
+Main application:
+bahn.cpp
